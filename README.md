@@ -32,7 +32,6 @@ sns.load_dataset("titanic")
 
 ## Files
 - Data_Cleaning_Project.ipynb
-- cleaned_dataset.csv
 - Data_Cleaning_Report.pdf
 - requirements.txt
 
